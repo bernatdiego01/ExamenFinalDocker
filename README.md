@@ -26,6 +26,7 @@ A continuacion crearemos un fichero docker-compose.yml. Este archivo estara divi
 
 ![5](https://user-images.githubusercontent.com/91748429/173110934-dc07e927-9259-4df2-abe5-e69b486ac2d6.PNG)
 
+
 Finalizaremos esta parte juntando todo de manera correcta y ejecutando este docker-compose con el comando "docker-compose up -d"
 
 ![6](https://user-images.githubusercontent.com/91748429/173111846-0b99a9d5-6805-4701-ada4-77739511db9e.PNG)
@@ -65,7 +66,10 @@ Si queremos comprobarlo podemos acceder a nuestro docker hub y ver la imagen:
 
 
 
+ANNEXOS:
 
+Link al contenedor de docker hub:
+https://hub.docker.com/r/bernatsistemas/examen
 
 
 
