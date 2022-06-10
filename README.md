@@ -41,6 +41,33 @@ Como podemos comprobar todo funciona perfectamente, hemos podido acceder a la pa
 ![9](https://user-images.githubusercontent.com/91748429/173113755-643b8627-f778-41ee-a9ba-e32c7100d2a6.PNG)
 
 
+A continuacion proseguiremos haciendo un push de nuestro proyecto a docker hub. Para esto necesitaremos primero logearnos en nuestra cuenta de docker, de esta manera:
+
+![10](https://user-images.githubusercontent.com/91748429/173116180-7c41ed10-96d8-4b5e-ad6c-b0ff8bacc704.PNG)
+
+Seguiremos creando un dockerfile en nuestra carpeta y en este podremos un seguido de instrucciones para la creacion de la imagen:
+
+![11](https://user-images.githubusercontent.com/91748429/173117510-c055d27f-769c-464c-bdaf-ab4b13599cdc.PNG)
+
+
+A continuacion ejecutaremos el comando docker build para crear la imagen: (Aunque la he tenido que crear dos veces con el nombre correcto)
+
+![12](https://user-images.githubusercontent.com/91748429/173120979-d3184cce-68b2-4485-9b9a-aaffdd519866.PNG)
+![12 1](https://user-images.githubusercontent.com/91748429/173120997-f058d3a6-dc0f-46c2-a80d-a57b5a7b8caf.PNG)
+
+Y finalizariamos todo esto haciendo un docker oush de la imagen:
+
+![13](https://user-images.githubusercontent.com/91748429/173121124-9ec1c3a4-5985-447f-9ed2-7b64e425c0e2.PNG)
+
+
+Si queremos comprobarlo podemos acceder a nuestro docker hub y ver la imagen:
+![14](https://user-images.githubusercontent.com/91748429/173121324-2abd57e9-2e10-40dd-a550-ff0281256ee6.PNG)
+
+
+
+
+
+
 
 
 
